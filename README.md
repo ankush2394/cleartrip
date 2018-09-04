@@ -1,0 +1,3 @@
+# cleartrip
+
+brew install watchman
